@@ -22,4 +22,4 @@
     ```bash
    python math_series_calculator.py
    ```
-   
+![Описание изображения](photo_2024-12-25_11-03-56.jpg)
